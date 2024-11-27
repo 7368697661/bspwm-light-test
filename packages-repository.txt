@@ -7,7 +7,6 @@ default-cursors
 dex
 dunst
 endeavouros-xfce4-terminal-colors
-eos-lightdm-slick-theme
 eos-qogir-icons
 feh
 file-roller
@@ -29,7 +28,6 @@ picom
 polkit-gnome
 polybar
 rofi
-eos-sddm-theme
 scrot
 sxhkd
 sysstat
@@ -43,7 +41,6 @@ xbindkeys
 xclip
 xdg-user-dirs-gtk
 xed
-xfce4-terminal
 xorg-xbacklight
 xorg-xdpyinfo
 xorg-xsetroot
