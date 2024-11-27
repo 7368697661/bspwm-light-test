@@ -44,3 +44,4 @@ xed
 xorg-xbacklight
 xorg-xdpyinfo
 xorg-xsetroot
+ly
